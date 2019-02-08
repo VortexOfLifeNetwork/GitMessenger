@@ -12,6 +12,7 @@ Desktop Screenshots
 
 ## Description
 
+This is a test possible chat app - if used, needs to be cloned, made private, then public deleted.
 GitMessenger is chat app for developers where you can text,share images,code😊 and much more!. Fork this app at https://github.com/singhbhavneet/GitMessenger/.It is built with nodejs, socket.io ,firebase and bootstrap
 
 ### Attention
